@@ -20,7 +20,7 @@ Like `df` for your Claude sessions.
 ## Install
 
 ```bash
-git clone https://github.com/kunalchowdhury/claude-session-df.git
+git clone https://github.com/kcdbaba/claude-session-df.git
 cd claude-session-df
 bash install.sh
 ```
